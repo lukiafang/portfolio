@@ -1,0 +1,80 @@
+body{
+    background-color: rgba(234,229,229);
+}
+.logo{
+    padding:15px;
+    font-family: 'Modak', cursive;
+}
+h1{
+    font-size: 65px;
+    font-weight:bolder;
+    font-family: 'Redressed', cursive;
+}
+h4{
+    font-family: 'Petrona', serif;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Petrona', serif;
+    font-size: 50px;
+}
+
+.navbar{
+    margin-inline-start: 50px;
+    padding-top: 35px;
+}
+.nav-item{
+    margin-inline-end: 20px;
+    font-family: 'Gidugu', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.mid{
+    margin-block-start: 30px;
+}
+.photo{
+    margin-block-start: 40px;
+    height: 580px;
+    padding-left: 0;
+    padding-right: 0;
+}
+#myphoto{
+    height: 480px;
+    width: 450px;
+}
+#hello{
+    font-size: 80px;
+}
+
+.block {
+    text-align: center;
+    vertical-align: middle;
+}
+.circle {
+    
+    border-radius: 200px;
+    color: white;
+    height: 150px;
+    font-weight: bold;
+    width: 150px;
+    display: table;
+    margin: 20px auto;
+}
+.circle p {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.one{
+    background:rgb(232,53,86);
+}
+.two{
+    background: rgb(97,208,212);
+}
+.three{
+    background: rgb(209,201,38);
+}
+
+.row{
+    padding:15px;
+}
